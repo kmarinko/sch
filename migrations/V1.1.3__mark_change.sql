@@ -4,5 +4,6 @@ CREATE TABLE mark_table
 (
    id bigint,
    FIRST_NAME VARCHAR
-  ,LAST_NAME VARCHAR
+  ,LAST_NAME VARCHAR,
+  id2 number
 );
